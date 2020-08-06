@@ -2,11 +2,11 @@
     "profiles":[
     {
     "basics":{
-    "name":"sowmya",
+    "name":"Nandakumar",
     "role":"Student",
-    "email":"sowmyasai3399",
-    "mobile":"+91 6305815640",
-    "gender":"female",
+    "email":"katurinandakumar456@gmail.com",
+    "mobile":"+91 9502195084",
+    "gender":"male",
     "address":"vijayawada,Andhra pradesh"
 
     },
@@ -22,16 +22,16 @@
     {
                         "degree":"B-Tech (Computer Science and Engineering)",
                         "institute":"Lakireddy balireddy College of Engineering",
-                        "result":"96%"
+                        "result":"84%"
     },
     {
                         "degree":"Intermediate in MPC",
-                        "institute":"Sri Chaitanya Junior College",
-                        "result":"96%"
+                        "institute":"Narayana Junior College",
+                        "result":"94%"
     },
     {
                         "degree":"S.S.C",
-                        "institute":"Amali e.m high school",
+                        "institute":"Vikas high school",
                         "result":"95%"
     }
 
